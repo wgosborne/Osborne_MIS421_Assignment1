@@ -15,5 +15,10 @@ html {
 
 body {
   margin-bottom: 60px;
-  background-color: cadetblue;
+  background-color: orange;
+}
+
+img
+{
+    border-radius: 25%;
 }
